@@ -1,5 +1,5 @@
 # alc_devops_challenge
 
-# install docker
+first install docker on your system
 
-# run docker build -t ubuntu-node-app .
+run docker build -t ubuntu-node-app .
